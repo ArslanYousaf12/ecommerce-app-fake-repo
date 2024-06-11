@@ -1,8 +1,6 @@
 # Flutter eCommerce App
 
-This is the official Flutter Project for this course:
 
-- [Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
 This will include a full-stack eCommerce app using Flutter & Firebase:
 
@@ -12,15 +10,9 @@ A Flutter web preview of the app can be found here:
 
 - [Flutter Web Demo](https://my-shop-ecommerce-stg.web.app/)
 
-## Project Setup
 
-To clone the repo for the first time and open it in VSCode, run this:
 
-```
-git clone https://github.com/bizz84/complete-flutter-course.git
-cd complete-flutter-course
-code .
-```
+
 
 This will checkout the `main` branch which contains the **latest code**.
 
