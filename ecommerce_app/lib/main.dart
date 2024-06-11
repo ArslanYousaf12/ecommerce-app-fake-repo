@@ -40,6 +40,7 @@ void main() async {
 
 void registerErrorHandlers(ErrorLogger errorLogger) {
   // * Show some error UI if any uncaught exception happens
+  //these error can be caught here
   FlutterError.onError = (FlutterErrorDetails details) {
     FlutterError.presentError(details);
     errorLogger.logError(details.exception, details.stack);
